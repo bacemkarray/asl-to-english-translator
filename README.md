@@ -58,7 +58,7 @@ ASLtoEnglishTranslator/
 ## 👥 Team
 
 - [Bacem Karray](https://github.com/bacemkarray)
-- [Collaborator Name](https://github.com/collaboratorusername)
+- [Minhaz Rakin](https://github.com/MinhazCodes-R)
 
 ## 📄 License
 
