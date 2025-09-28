@@ -15,14 +15,12 @@ An AI-powered tool developed during York University's CTRL+HACK+DEL hackathon, d
 
 - Python  
 - OpenCV  
-- TensorFlow / Keras  
-- Streamlit  
+- TensorFlow 
+- Flask  
 
 ## 📷 Demo
 
 ![Demo GIF](link-to-demo.gif)
-
-*Replace with an actual demo GIF or image showcasing the application in action.*
 
 ## 📦 Installation
 
@@ -42,24 +40,7 @@ An AI-powered tool developed during York University's CTRL+HACK+DEL hackathon, d
    streamlit run app.py
    ```
 
-## 📁 Project Structure
-
-```
-ASLtoEnglishTranslator/
-├── app.py
-├── model/
-│   └── asl_model.h5
-├── utils/
-│   └── helper_functions.py
-├── requirements.txt
-└── README.md
-```
-
 ## 👥 Team
 
 - [Bacem Karray](https://github.com/bacemkarray)
 - [Minhaz Rakin](https://github.com/MinhazCodes-R)
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
