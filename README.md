@@ -9,7 +9,7 @@ An AI-powered tool developed during York University's CTRL+HACK+DEL hackathon, d
 
 - **Real-Time Translation**: Converts ASL gestures to English text instantly.
 - **User-Friendly Interface**: Simple and intuitive design for ease of use.
-- **Machine Learning Integration**: Utilizes advanced models for accurate gesture recognition.
+- **Machine Learning Integration**: Utilizes Mediapipe and a custom classifier for accurate gesture detection and recognition.
 
 ## 🛠️ Technologies Used
 
@@ -22,23 +22,6 @@ An AI-powered tool developed during York University's CTRL+HACK+DEL hackathon, d
 
 ![Demo GIF](link-to-demo.gif)
 
-## 📦 Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/bacemkarray/ASLtoEnglishTranslator.git
-   cd ASLtoEnglishTranslator
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**:
-   ```bash
-   streamlit run app.py
-   ```
 
 ## 👥 Team
 
